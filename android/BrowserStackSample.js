@@ -4,11 +4,11 @@ let asserters = wd.asserters;
 
 desiredCaps = {
   // Set your BrowserStack access credentials
-  'browserstack.user' : 'YOUR_USERNAME',
-  'browserstack.key' : 'YOUR_ACCESS_KEY',
+  'browserstack.user' : 'maratmamin_1SlcBD',
+  'browserstack.key' : 'KWMJKojznzqEvDQRSWoy',
 
   // Set URL of the application under test
-  'app' : 'bs://<app-id>',
+  'app' : 'bs://8826205417df80647474117d5e6880d7ab571ccd',
 
   // Specify device and os_version for testing
   'device' : 'Google Pixel 3',
